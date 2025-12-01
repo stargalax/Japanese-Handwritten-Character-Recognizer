@@ -5,6 +5,9 @@
 This is a simple OCR-based tool for recognizing Japanese handwritten or printed characters (Hiragana, Katakana) using images uploaded by the user. It's built for **Google Colab** and supports **multiple image uploads**.
 
 ---
+## sequence diagram
+<img width="779" height="537" alt="image" src="https://github.com/user-attachments/assets/d47606e3-25a0-4654-97c0-5d0a72c1dda5" />
+
 
 ## ⚙️ Tech Stack
 
